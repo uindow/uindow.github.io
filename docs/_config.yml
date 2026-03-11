@@ -1,12 +1,12 @@
 theme: jekyll-theme-minimal
-title: Oglama
+title: Uindow
 logo: /img/256.png
 description: Modern, community-driven web automation
 google_analytics:
-copyright_url: https://oglama.com/?ref=oglama.github.io
+copyright_url: https://uindow.com/?ref=uindow.github.io
 show_downloads: true
 github:
-    repository_nwo: "oglama/oglama"
-    repository_url: https://github.com/oglama/oglama/
-    repository_notice: https://github.com/oglama/oglama/blob/main/dist/NOTICE.md
-    releases_url: https://github.com/oglama/oglama/releases/latest/
+    repository_nwo: "uindow/uindow"
+    repository_url: https://github.com/uindow/uindow/
+    repository_notice: https://github.com/uindow/uindow/blob/main/dist/NOTICE.md
+    releases_url: https://github.com/uindow/uindow/releases/latest/
