@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Uindow
 logo: /img/256.png
-description: Modern, community-driven web automation
+description: UI testing and web automation
 google_analytics:
 copyright_url: https://uindow.com/?ref=uindow.github.io
 show_downloads: true

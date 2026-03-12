@@ -1,4 +1,4 @@
-## Modern, community-driven web automation
+## UI testing and web automation
 
 <p align="center">
     <a href="https://github.com/uindow/uindow/">
